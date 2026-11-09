@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Conversation branches",
+    "description": "Lets the model list and read the forked branches of the current conversation."
+  }
+}
